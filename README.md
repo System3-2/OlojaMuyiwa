@@ -49,7 +49,7 @@ Welcome to Oloja Muyiwa profile! <img src="https://media.giphy.com/media/12oufCB
 
 ## 🔥 Streak stats
 
-<!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
+ GitHub Readme Streak Stats - https://github.com/OlojaMuyiwa/github-readme-streak-stats 
 
 
 ## 🛠️ My favorite tools
