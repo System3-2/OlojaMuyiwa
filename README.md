@@ -133,4 +133,14 @@ https://github.com/OlojaMuyiwa/github-readme-stats
 <a href="https://github.com/OlojaMuyiwa/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://blooming-savannah-50472.herokuapp.com/graph?username=Olojamuyiwa&theme=react-dark&hide_border=true" /></a>
 
 
-![Oloja's GitHub stats](https://github-readme-stats.vercel.app/api?username=OlojaMuyiwa&show_icons=true)
+![Oloja's GitHub stats](https://github-readme-stats.vercel.app/api?username=OlojaMuyiwa&show_icons=true&theme=gruvbox)
+
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OlojaMuyiwa&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OlojaMuyiwa&repo=convoychat" />
+</a>
+
+
