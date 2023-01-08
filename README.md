@@ -119,20 +119,11 @@ Welcome to Oloja Muyiwa profile! <img src="https://media.giphy.com/media/12oufCB
 
 # 📊 Github stats
 
-<details> 
-<summary>💻 GitHub Profile Stats</summary> 
-  <br/>
-    <a href="https://github.com/OlojaMuyiwa/github-readme-stats"><img alt="NeerajRathod'Oloja Github Stats" src="https://github-readme-stats.vercel.app/api?username=OlojaMuyiwa&show_icons=true&theme=tokyonight" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Neeraj Rathod's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neeraj2002&layout=compact" height="192px"/></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-</details> 
 
- https://github.com/OlojaMuyiwa/github-readme-activity-graph
-<a href="https://github.com/OlojaMuyiwa/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://blooming-savannah-50472.herokuapp.com/graph?username=Olojamuyiwa&theme=react-dark&hide_border=true" /></a>
-
-
-![Oloja's GitHub stats](https://github-readme-stats.vercel.app/api?username=OlojaMuyiwa&show_icons=true&theme=gruvbox)
+![Oloja's GitHub stats](https://github-readme-stats.vercel.app/api?username=OlojaMuyiwa&show_icons=true&theme=tokyonight)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OlojaMuyiwa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OlojaMuyiwa&repo=alx-low_level_programming)](https://github.com/anuraghazra/github-readme-stats)
