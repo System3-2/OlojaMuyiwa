@@ -131,3 +131,6 @@ https://github.com/OlojaMuyiwa/github-readme-stats
 
  https://github.com/OlojaMuyiwa/github-readme-activity-graph
 <a href="https://github.com/OlojaMuyiwa/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://blooming-savannah-50472.herokuapp.com/graph?username=Olojamuyiwa&theme=react-dark&hide_border=true" /></a>
+
+
+![Oloja's GitHub stats](https://github-readme-stats.vercel.app/api?username=OlojaMuyiwa&show_icons=true)
