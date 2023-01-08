@@ -123,13 +123,13 @@ Welcome to Oloja Muyiwa profile! <img src="https://media.giphy.com/media/12oufCB
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OlojaMuyiwa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OlojaMuyiwa&repo=alx-low_level_programming)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OlojaMuyiwa&repo=alx-low_level_programming)](https://github.com/OlojaMuyiwa?tab=repositories)
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OlojaMuyiwa&repo=LinkFree)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OlojaMuyiwa&repo=LinkFree)](https://github.com/OlojaMuyiwa?tab=repositories)
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OlojaMuyiwa&repo=laravel-course)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OlojaMuyiwa&repo=laravel-course)](https://github.com/OlojaMuyiwa?tab=repositories)
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OlojaMuyiwa&repo=awesome-github-profiles)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OlojaMuyiwa&repo=awesome-github-profiles)](https://github.com/OlojaMuyiwa?tab=repositories)
