@@ -22,8 +22,8 @@ Welcome to Oloja Muyiwa profile! <img src="https://media.giphy.com/media/12oufCB
 - 👀 I’m interested in New Tech, Frontend Development, Javascript
 - 🌱 I’m currently learning everything 
 - 📫 Trying to imporve myself everyday
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- 💞️ Fun Fact: Iron Man Fan😁
+- 🥅 2023 Goals: Contribute more to Open Source projects
+- 💞️ 
 
 <!-- Badges template - https://github.com/badges/shields -->
 <p align="center">
@@ -58,14 +58,14 @@ Welcome to Oloja Muyiwa profile! <img src="https://media.giphy.com/media/12oufCB
 
 <p>
     <a href="#"><img alt="Bash" src="https://img.shields.io/badge/Bash%20-%23121011.svg?logo=gnu-bash&logoColor=white"></a>
-    <!-- <a href="#"><img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white"></a> -->
-    <!-- <a href="#"><img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=white"></a> -->
+     <a href="#"><img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white"></a> 
+    <a href="#"><img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=white"></a> 
     <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a>
     <a href="#"><img alt="Google Apps Script" src="https://img.shields.io/badge/Google%20Apps%20Script%20-%2302569B.svg?logo=google-cloud&logoColor=white"></a>
     <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
     <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
     <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white"></a>
-    <!-- <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a> -->
+    <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
     <a href="#"><img alt="Scratch" src="https://img.shields.io/badge/Scratch%20-%234D97FF.svg?logo=scratch&logoColor=white"></a>
     <a href="#"><img alt="SVG+XML" src="https://img.shields.io/badge/SVG%2BXML%20-%23e0982c.svg?logo=svg&logoColor=white"></a>
 </p>
@@ -116,18 +116,18 @@ Welcome to Oloja Muyiwa profile! <img src="https://media.giphy.com/media/12oufCB
     <a href="#"><img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-0078d7.svg?logo=pycharm&logoColor=white"></a>
     <a href="#"><img alt="AutoCAD" src="https://img.shields.io/badge/AutoCAD-0078d7.svg?logo=cad&logoColor=white"></a>
 </p>
-<!-- 
+
 # 📊 Github stats
 
-<!-- https://github.com/anuraghazra/github-readme-stats -->
+https://github.com/OlojaMuyiwa/github-readme-stats
 <details> 
-  <!-- <summary>💻 GitHub Profile Stats</summary>
+<summary>💻 GitHub Profile Stats</summary> 
   <br/>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="NeerajRathod's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Neeraj2002&show_icons=true&theme=tokyonight" height="192px"/></a>
+    <a href="https://github.com/OlojaMuyiwa/github-readme-stats"><img alt="NeerajRathod'Oloja Github Stats" src="https://github-readme-stats.vercel.app/api?username=OlojaMuyiwa&show_icons=true&theme=tokyonight" height="192px"/></a>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Neeraj Rathod's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neeraj2002&layout=compact" height="192px"/></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-</details> -->
+</details> 
 
-<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-<!-- <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://blooming-savannah-50472.herokuapp.com/graph?username=Neeraj2002&theme=react-dark&hide_border=true" /></a> --> -->
+ https://github.com/OlojaMuyiwa/github-readme-activity-graph
+<a href="https://github.com/OlojaMuyiwa/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://blooming-savannah-50472.herokuapp.com/graph?username=Olojamuyiwa&theme=react-dark&hide_border=true" /></a>
