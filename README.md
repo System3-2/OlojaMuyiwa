@@ -119,7 +119,6 @@ Welcome to Oloja Muyiwa profile! <img src="https://media.giphy.com/media/12oufCB
 
 # 📊 Github stats
 
-https://github.com/OlojaMuyiwa/github-readme-stats
 <details> 
 <summary>💻 GitHub Profile Stats</summary> 
   <br/>
@@ -133,9 +132,9 @@ https://github.com/OlojaMuyiwa/github-readme-stats
 <a href="https://github.com/OlojaMuyiwa/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://blooming-savannah-50472.herokuapp.com/graph?username=Olojamuyiwa&theme=react-dark&hide_border=true" /></a>
 
 
+<details>
 ![Oloja's GitHub stats](https://github-readme-stats.vercel.app/api?username=OlojaMuyiwa&show_icons=true&theme=gruvbox)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OlojaMuyiwa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
+</details>
