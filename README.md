@@ -120,7 +120,7 @@ Welcome to Oloja Muyiwa profile! <img src="https://media.giphy.com/media/12oufCB
 ![Oloja's GitHub stats](https://github-readme-stats.vercel.app/api?username=OlojaMuyiwa&show_icons=true&theme=tokyonight)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OlojaMuyiwa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OlojaMuyiwa&layout=compact)](https://github.com/OlojaMuyiwa/github-readme-stats)
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OlojaMuyiwa&repo=alx-low_level_programming)](https://github.com/OlojaMuyiwa?tab=repositories)
