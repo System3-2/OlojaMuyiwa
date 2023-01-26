@@ -19,10 +19,10 @@ Welcome to Oloja Muyiwa profile! <img src="https://media.giphy.com/media/12oufCB
 
 ## I'm a Student, Developer, and Learner!!
 
-- 👀 I’m interested in New Tech, Frontend Development, Javascript
+- 👀 I’m interested in New Tech, Software Development, Javascript
 - 🌱 I’m currently learning everything 
 - 📫 Trying to imporve myself everyday
-- 🥅 2023 Goals: Contribute more to Open Source projects
+- 🥅 Goals: Contribute more to Open Source projects
 - 💞️ 
 
 <!-- Badges template - https://github.com/badges/shields -->
@@ -43,7 +43,7 @@ Welcome to Oloja Muyiwa profile! <img src="https://media.giphy.com/media/12oufCB
   <a href="https://twitter.com/iRedeploy__"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
   <a href="https://discord.com/channels/@me" alt="Dev Pro Tips Discussion & Support Server">
     <img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logoColor=white&logo=discord"/></a>
-  <a href="https://t.co/qul043Huvg"><img alt="Dev.to" title="DenverCoder1 Dev.to" src="https://img.shields.io/badge/DEVFOLIO-3835D3.svg?&style=for-the-badge&logo=dev.to&logoColor=black"></a>
+  <a href="https://oloja-portfolio.vercel.app/"><img alt="Dev.to" title="DenverCoder1 Dev.to" src="https://img.shields.io/badge/DEVFOLIO-3835D3.svg?&style=for-the-badge&logo=dev.to&logoColor=black"></a>
   <a href="#"><img alt="Dev.to" title="DenverCoder1 Dev.to" src="https://img.shields.io/badge/DEV.TO-3835D3.svg?&style=for-the-badge&logo=dev.to&logoColor=white"></a>
 </p>
 
