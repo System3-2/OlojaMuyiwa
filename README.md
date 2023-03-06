@@ -17,6 +17,9 @@ You can click the Preview link to take a look at your changes.
 Welcome to Oloja Muyiwa profile! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 </h3>
 
+![gif](https://res.cloudinary.com/drwsapqqo/image/upload/v1678088692/Black_Animated_Happy_Monday_Instagram_Post_woz5ey.gif)
+
+
 ## I'm a Student, Developer, and Learner!!
 
 - 👀 I’m interested in New Tech, Software Development, Javascript
