@@ -22,7 +22,7 @@ Welcome to Oloja Muyiwa profile! <img src="https://media.giphy.com/media/12oufCB
 
 ## I'm a Student, Developer, and Learner!!
 
-- 👀 I’m interested in New Tech, Software Development, Javascript
+- 👀 I’m interested in Software Development
 - 🌱 I’m currently learning everything 
 - 📫 Trying to imporve myself everyday
 - 🥅 Goals: Contribute more to Open Source projects
