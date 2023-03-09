@@ -29,11 +29,6 @@ Welcome to Oloja Muyiwa profile! <img src="https://media.giphy.com/media/12oufCB
 - 🥅 Goals: Contribute more to Open Source projects
 - 💞️ 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Klin-Coders/OlojaMuyiwa/blob/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/OlojaMuyiwa/Klin-Coders/blob/output/github-contribution-grid-snake.svg">
-  <img alt="snk" src="https://github.com/OlojaMuyiwa/OlojaMuyiwa/output/github-snake.svg">
-</picture>
 
 
 <!-- Badges template - https://github.com/badges/shields -->
