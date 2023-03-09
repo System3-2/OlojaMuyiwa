@@ -20,6 +20,7 @@ Welcome to Oloja Muyiwa profile! <img src="https://media.giphy.com/media/12oufCB
 ![gif](https://res.cloudinary.com/drwsapqqo/image/upload/v1678088692/Black_Animated_Happy_Monday_Instagram_Post_woz5ey.gif)
 
 
+
 ## I'm a Student, Developer, and Learner!!
 
 - 👀 I’m interested in Software Development
@@ -27,6 +28,13 @@ Welcome to Oloja Muyiwa profile! <img src="https://media.giphy.com/media/12oufCB
 - 📫 Trying to imporve myself everyday
 - 🥅 Goals: Contribute more to Open Source projects
 - 💞️ 
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Klin-Coders/OlojaMuyiwa/blob/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/OlojaMuyiwa/Klin-Coders/blob/output/github-contribution-grid-snake.svg">
+  <img alt="snk" src="https://github.com/Klin-Coders/OlojaMuyiwa/output/github-snake.svg">
+</picture>
+
 
 <!-- Badges template - https://github.com/badges/shields -->
 <p align="center">
