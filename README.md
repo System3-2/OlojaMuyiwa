@@ -29,33 +29,13 @@ Welcome to Oloja Muyiwa profile! <img src="https://media.giphy.com/media/12oufCB
 - 🥅 Goals: Contribute more to Open Source projects
 - 💞️ 
 
-
-
-<!-- Badges template - https://github.com/badges/shields -->
-<p align="center">
-  <a href="https://twitter.com/iRedeploy__">
-    <img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/NeerajR76494084?color=55960c&labelColor=488207&label=Follow&logo=twitter&logoColor=white&style=for-the-badge"/></a>
-  <a href="https://github.com/OlojaMuyiwa">
-    <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/Neeraj2002?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/></a>
-  <a href="https://github.com/OlojaMuyiwa">
-    <img alt="My Website" title="My Website" src="https://img.shields.io/website?label=WEBISTE&style=for-the-badge&up_color=yellow&up_message=VISIT&url=https%3A%2F%2Fneeraj2002.github.io%2F"/></a> 
-</p>
-
-## 🙋‍♂️ Connect with me
-
-<!-- Badges template - https://github.com/badges/shields -->
-<p align="center">
-  
-  <a href="https://twitter.com/iRedeploy__"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://discord.com/channels/@me" alt="Dev Pro Tips Discussion & Support Server">
-    <img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logoColor=white&logo=discord"/></a>
-  <a href="https://oloja-portfolio.vercel.app/"><img alt="Dev.to" title="DenverCoder1 Dev.to" src="https://img.shields.io/badge/DEVFOLIO-3835D3.svg?&style=for-the-badge&logo=dev.to&logoColor=black"></a>
-  <a href="#"><img alt="Dev.to" title="DenverCoder1 Dev.to" src="https://img.shields.io/badge/DEV.TO-3835D3.svg?&style=for-the-badge&logo=dev.to&logoColor=white"></a>
-</p>
+<!-- ## 🙋‍♂️ Connect with me
 
 ## 🔥 Streak stats
 
 ## 🛠️ My favorite tools
+
+-->
 
 ### 👨‍💻 Programming languages
 
@@ -74,18 +54,6 @@ Welcome to Oloja Muyiwa profile! <img src="https://media.giphy.com/media/12oufCB
 </p>
 
 ### 🧰 Frameworks and libraries
-
-<p>
-    <!-- <a href="#"><img alt="Cordova" src="https://img.shields.io/badge/-Cordova-E8E8E8?logo=apache-cordova&logoColor=black"></a>
-    <a href="#"><img alt="Material Design" src="https://img.shields.io/badge/Material%20Design%20-%230081CB.svg?logo=material-design&logoColor=white"></a>
-    <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white"></a>
-    <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white"></a>
-    <a href="#"><img alt="Pytest" src="https://img.shields.io/badge/Pytest%20-%230A9EDC.svg?logo=pytest&logoColor=white"></a>
-    <a href="#"><img alt="SymPy" src="https://img.shields.io/badge/Sympy%20-%233B5526.svg?logo=sympy&logoColor=white"></a>
-    <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?logo=TensorFlow&logoColor=white"></a> -->
-    <!-- <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white"></a> -->
-    <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstarp-21759B?logo=bootstrap&logoColor=white"></a>
-</p>
 
 ### 🗄️ Databases and cloud hosting
 
@@ -119,23 +87,3 @@ Welcome to Oloja Muyiwa profile! <img src="https://media.giphy.com/media/12oufCB
     <a href="#"><img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-0078d7.svg?logo=pycharm&logoColor=white"></a>
     <a href="#"><img alt="AutoCAD" src="https://img.shields.io/badge/AutoCAD-0078d7.svg?logo=cad&logoColor=white"></a>
 </p>
-
-# 📊 Github stats
-
-
-![Oloja's GitHub stats](https://github-readme-stats.vercel.app/api?username=OlojaMuyiwa&show_icons=true&theme=tokyonight)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OlojaMuyiwa&layout=compact)](https://github.com/OlojaMuyiwa/github-readme-stats)
-
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OlojaMuyiwa&repo=alx-low_level_programming)](https://github.com/OlojaMuyiwa?tab=repositories)
-
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OlojaMuyiwa&repo=LinkFree)](https://github.com/OlojaMuyiwa?tab=repositories)
-
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OlojaMuyiwa&repo=laravel-course)](https://github.com/OlojaMuyiwa?tab=repositories)
-
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OlojaMuyiwa&repo=awesome-github-profiles)](https://github.com/OlojaMuyiwa?tab=repositories)
