@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Oloja, a full-time full-stack freelance developer 👨‍💻 working remotely since 2013 🚀</div>  
+### <div align="center">I'm Oloja, a full-time Software engineer👨‍💻 working remotely since 2013 🚀</div>  
   
 
 - 🔭 I’m currently working on nothing haha
