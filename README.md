@@ -147,9 +147,7 @@ If things goes well, this section should automatically be replaced by a list of 
 
 <div align="center"></div>
 <br />
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31jrh64ozsgthppdglvo242sqnwa&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" /></div>  
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div><div align="center">
-<img src="https://camo.githubusercontent.com/2c8b3670d933220ae3c023fa1d568682975cce3f10799d0d3ff5ecac394b4ee8/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f31326f75664342304d795a31476f2f67697068792e676966" align="center" style="width: 100%" />
-</div>  
+<br/>
   
