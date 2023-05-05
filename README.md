@@ -2,10 +2,7 @@
 <img src="https://camo.githubusercontent.com/2c8b3670d933220ae3c023fa1d568682975cce3f10799d0d3ff5ecac394b4ee8/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f31326f75664342304d795a31476f2f67697068792e676966" align="center" style="width: 100%" />
 </div>  
 
-<div align="center" width="33%" >
-<img src="[https://camo.githubusercontent.com/2c8b3670d933220ae3c023fa1d568682975cce3f10799d0d3ff5ecac394b4ee8/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f31326f75664342304d795a31476f2f67697068792e676966](https://media2.giphy.com/media/xRJinOH44eOd2/giphy.gif?cid=2154d3d7k26lshvr7m2cu6xf47zoz8a0bjw6ld05lmtuvi9r&ep=v1_stickers_search&rid=giphy.gif&ct=s)" align="center" style="width: 100%" />
-</div>
-  
+https://media2.giphy.com/media/xRJinOH44eOd2/giphy.gif?cid=2154d3d7k26lshvr7m2cu6xf47zoz8a0bjw6ld05lmtuvi9r&ep=v1_stickers_search&rid=giphy.gif&ct=s
 
 ### <div align="center">I'm Oloja, a full-time Software engineer👨‍💻 🚀</div>  
   
